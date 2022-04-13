@@ -1,10 +1,10 @@
-### ¡¡Bienvenidos!! 👋
+# ¡¡Bienvenidos!! 👋
 
-<h3><strong>Me llamo Jordi Espel Costa 😄</strong><h3
+## <strong>Me llamo Jordi Espel Costa 😄</strong>
 
-<p>Soy <strong>Desarrollador Web</strong> y <strong>Diseñador Gráfico</strong></p>
+## Soy <strong>Desarrollador Web</strong> y <strong>Diseñador Gráfico</strong>
 
-## Puedes encontrarme en:
+### Puedes encontrarme en:
 
 - [Mi página web]()
 - [LinkedIn](https://www.linkedin.com/in/jordi-espel-costa/)
