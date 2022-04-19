@@ -6,6 +6,6 @@
 
 ### Puedes encontrarme en:
 
-- [Mi página web](https://jordiespel.es)
+- [Mi página web](https://jordiespel.es/)
 - [LinkedIn](https://linkedin.com/in/jordi-espel-costa/)
 - [Instagram](https://instagram.com/jordiec_/)
