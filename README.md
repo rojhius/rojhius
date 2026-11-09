@@ -2,7 +2,9 @@
 
 ## <strong>Me llamo Jordi Espel Costa 😄</strong>
 
-## Soy <strong>Desarrollador Web</strong> y <strong>Diseñador Gráfico</strong>
+## Soy  <strong>Diseñador Gráfico</strong>
+        <strong>Desarrollador Web</strong>
+        <strong>Experto Universitario IA</strong>
 
 ### Puedes encontrarme en:
 
